@@ -1,0 +1,19 @@
+{
+	"name": "Fido",
+	"symbol": "FDO",
+	"image": "0.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "0.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "AWwjJjDBoc8KxPvPCBzFTqBLjMuXcnUHLHBYEcjnRB5A",
+				"share": 100
+			}
+		]
+	}
+}

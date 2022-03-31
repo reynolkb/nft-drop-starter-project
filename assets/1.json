@@ -1,0 +1,19 @@
+{
+	"name": "Harry",
+	"symbol": "HRY",
+	"image": "1.png",
+	"properties": {
+		"files": [
+			{
+				"uri": "1.png",
+				"type": "image/png"
+			}
+		],
+		"creators": [
+			{
+				"address": "AWwjJjDBoc8KxPvPCBzFTqBLjMuXcnUHLHBYEcjnRB5A",
+				"share": 100
+			}
+		]
+	}
+}
